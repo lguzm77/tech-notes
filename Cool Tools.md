@@ -1,0 +1,3 @@
+- `bat` -> modern replacement for cat
+- `mermaid.js for diagrams.
+- 
