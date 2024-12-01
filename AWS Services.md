@@ -13,6 +13,6 @@ ElastiCache Processing Units - $0.0034 / million ECPUs (To calculate the pricing
 	- Size of the workload in GB
 	- Request throughout 
 
-### Self-managed
+
 
 
